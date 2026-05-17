@@ -8,6 +8,8 @@ Este projeto foi desenvolvido como parte dos meus estudos em Análise e Desenvol
 
 O sistema permite registrar um chamado simples de suporte técnico, informando dados como nome do usuário, setor, tipo de problema, descrição e prioridade.
 
+- [Simulador de Chamados de Suporte Técnico](https://github.com/giovanniportugol/simulador-chamados-suporte) — projeto acadêmico em Python para simular o registro de chamados, com foco em suporte técnico, organização, prioridade e resolução de problemas.
+
 ## Objetivo
 
 Demonstrar conhecimentos iniciais em Python aplicados a um contexto próximo da rotina de suporte técnico, help desk e service desk.
